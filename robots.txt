@@ -10,4 +10,4 @@ Allow: /
 User-agent: LinkedInBot
 Allow: /
 
-Sitemap: https://www.odontocam.com.br/sitemap.xml
+Sitemap: https://odontocam.com.br/sitemap.xml
